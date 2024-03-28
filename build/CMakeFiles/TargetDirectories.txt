@@ -1,0 +1,3 @@
+/home/haribo/workspaces/playground/build/CMakeFiles/playground.dir
+/home/haribo/workspaces/playground/build/CMakeFiles/edit_cache.dir
+/home/haribo/workspaces/playground/build/CMakeFiles/rebuild_cache.dir
